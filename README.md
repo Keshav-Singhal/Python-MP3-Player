@@ -3,7 +3,7 @@
                                   GUI MP3PLAYER:
 This GUI program is a mp3 music player made using Tkinter, Pygame, and Mutagen.
 
-To run:
+To run this project:
 - "python Python-MP3-Player.py"
 
 Help:
