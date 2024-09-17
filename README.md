@@ -4,7 +4,7 @@
 This GUI program is a mp3 music player made using Tkinter, Pygame, and Mutagen.
 
 To run:
-- "python project.py"
+- "python Python-MP3-Player.py"
 
 Help:
 - Add songs to the playlist click the 'add to list' button and choose mp3 files to add (you can select multiple files)
